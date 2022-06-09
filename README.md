@@ -1,4 +1,4 @@
-#### #HTML #CSS #javascript #java
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%2379C83D&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **PARKGAIN/PARKGAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
