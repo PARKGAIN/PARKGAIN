@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi~&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi&nbsp;I'm&nbsp;gain&fontSize=60)
 
 ## 관심있는 기술 🛠
 <br>
