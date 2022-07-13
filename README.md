@@ -1,9 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi&nbsp;I'm&nbsp;gain&fontSize=60)
 
-## 관심있는 기술 🛠
+<div align=center><h2>관심있는 기술 🛠</h2> </div>
 <br>
-
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white" /> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<div align=center>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>
 
 <!--
 **PARKGAIN/PARKGAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
