@@ -1,14 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi&nbsp;I'm&nbsp;gain&fontSize=60)
 
-<div align=center><h2>관심있는 기술 🛠</h2> </div>
-<br>
-<div align=center>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-</div>
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKGAIN&layout=compact&theme=dark)](https://github.com/PARKGAIN)
+
 
 <!--
 **PARKGAIN/PARKGAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
