@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi&nbsp;I'm&nbsp;gain&fontSize=60)
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKGAIN&layout=compact&theme=dark)](https://github.com/PARKGAIN)
- 
+ </div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
 
 <!--
