@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=55)
 <br/>
 ### 안녕하세요~🖐
-<br/>
-- 서울디지털대학교 소프트웨어공학과 중퇴
- <br/>
-- 스마일게이트 데브 캠프 참여중
+
 <!--
 **PARKGAIN/PARKGAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
