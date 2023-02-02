@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=55)
 <br/>
-### 안녕하세요~🖐
+### 안녕하세요~🖐  
+#### strider(성큼성큼 걷다)의 의미처럼 빠르게 성장하는 것을 목표로 하는 개발자 박가인입니다. 
 
 <!--
 **PARKGAIN/PARKGAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
